@@ -1,2 +1,4 @@
 # Ignore the Dataset
 Dataset/
+encoder/
+saved_model/
